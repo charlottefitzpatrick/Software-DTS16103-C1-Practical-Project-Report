@@ -1,0 +1,10 @@
+Requirements
+
+1. Install Python 3.8
+2. Install Anaconda
+3. Windows PC: Run the following commands in the terminal: 
+python -m pip install -U pygame --user 
+python -m pip install -U mixer --user
+4. Either run the snake1.py file to play the game or copy and paste the code into Spyder (Found in Anaconda Terminal).
+
+Note: Make sure Python and Spyder are fully up to date.
