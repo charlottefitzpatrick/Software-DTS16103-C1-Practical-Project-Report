@@ -23,7 +23,7 @@ Import Random
 Import mixer
 Import time
 
-References - Tech with Tim 2018 Tutorial #1
+-References- Tech with Tim 2018 Tutorial #1
 Available at: https://www.techwithtim.net/tutorials/game-development-with-python/snake-pygame/
 [Accessed 1 September 2020].
 
@@ -38,3 +38,4 @@ Mac PC: Install Python 3.8
 Run the following commands in the terminal:
 python3.8 -m pip install -U pygame --user 
 python3.8 -m pip install -U mixer --user
+
