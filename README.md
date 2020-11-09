@@ -31,8 +31,10 @@ Available at: https://www.techwithtim.net/tutorials/game-development-with-python
 - Requirements-
 Windows PC: Install Python 3.8
 Run the following commands in the terminal:
-python -m pip install -U pygame --user python -m pip install -U mixer --user
+python -m pip install -U pygame --user 
+python -m pip install -U mixer --user
 
 Mac PC: Install Python 3.8
 Run the following commands in the terminal:
-python3.7 -m pip install -U pygame --user python3.8 -m pip install -U mixer --user
+python3.8 -m pip install -U pygame --user 
+python3.8 -m pip install -U mixer --user
